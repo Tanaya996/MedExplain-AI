@@ -1,0 +1,1101 @@
+report_id,raw_report_text,overall_status,HGB_value,HGB_unit,HGB_ref_low,HGB_ref_high,HGB_status,HCT_value,HCT_unit,HCT_ref_low,HCT_ref_high,HCT_status,PLT_value,PLT_unit,PLT_ref_low,PLT_ref_high,PLT_status,MCV_value,MCV_unit,MCV_ref_low,MCV_ref_high,MCV_status,MCHC_value,MCHC_unit,MCHC_ref_low,MCHC_ref_high,MCHC_status,MCH_value,MCH_unit,MCH_ref_low,MCH_ref_high,MCH_status,RDW_value,RDW_unit,RDW_ref_low,RDW_ref_high,RDW_status,NE%_value,NE%_unit,NE%_ref_low,NE%_ref_high,NE%_status,LY%_value,LY%_unit,LY%_ref_low,LY%_ref_high,LY%_status
+CBC_001,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 14.2 g/dL  Reference: 12-16 g/dL
+Hematocrit: 41 %  Reference: 36-46 %
+Platelet Count: 244,000 /µL  Reference: 150000-450000 /µL
+MCV: 95.5 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.2 g/dL  Reference: 32-36 g/dL
+MCH: 30.8 pg  Reference: 27-33 pg
+RDW: 12.3 %  Reference: 11.5-14.5 %
+Neutrophils: 83.6 %  Reference: 40-70 %
+Lymphocytes: 14.1 %  Reference: 20-40 %",Abnormal,14.2,g/dL,12.0,16.0,Normal,41.0,%,36.0,46.0,Normal,244000,/µL,150000.0,450000.0,Normal,95.5,fL,80.0,100.0,Normal,33.2,g/dL,32.0,36.0,Normal,30.8,pg,27.0,33.0,Normal,12.3,%,11.5,14.5,Normal,83.6,%,40.0,70.0,High,14.1,%,20.0,40.0,Low
+CBC_002,"COMPLETE BLOOD COUNT
+
+Hb: 11.9 g/dL  Reference: 12-16 g/dL
+PCV: 35.5 %  Reference: 36-46 %
+Platelets: 278,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 86 fL  Reference: 80-100 fL
+MCHC: 32.3 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 29.6 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.6 %  Reference: 11.5-14.5 %
+Neutrophil %: 59.4 %  Reference: 40-70 %
+Lymphocyte %: 31.1 %  Reference: 20-40 %",Abnormal,11.9,g/dL,12.0,16.0,Low,35.5,%,36.0,46.0,Low,278000,/µL,150000.0,450000.0,Normal,86.0,fL,80.0,100.0,Normal,32.3,g/dL,32.0,36.0,Normal,29.6,pg,27.0,33.0,Normal,12.6,%,11.5,14.5,Normal,59.4,%,40.0,70.0,Normal,31.1,%,20.0,40.0,Normal
+CBC_003,"COMPLETE BLOOD COUNT
+
+HGB: 11 g/dL  Reference: 12-16 g/dL
+HCT: 30.1 %  Reference: 36-46 %
+PLT: 209,000 /µL  Reference: 150000-450000 /µL
+MCV: 78 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.7 g/dL  Reference: 32-36 g/dL
+MCH: 23.5 pg  Reference: 27-33 pg
+RDW: 16.4 %  Reference: 11.5-14.5 %
+NE%: 60.1 %  Reference: 40-70 %
+LY%: 37.9 %  Reference: 20-40 %",Abnormal,11.0,g/dL,12.0,16.0,Low,30.1,%,36.0,46.0,Low,209000,/µL,150000.0,450000.0,Normal,78.0,fL,80.0,100.0,Low,33.7,g/dL,32.0,36.0,Normal,23.5,pg,27.0,33.0,Low,16.4,%,11.5,14.5,High,60.1,%,40.0,70.0,Normal,37.9,%,20.0,40.0,Normal
+CBC_004,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 14.5 g/dL  Reference: 12-16 g/dL
+Hematocrit: 42.5 %  Reference: 36-46 %
+Platelet Count: 184,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 83.9 fL  Reference: 80-100 fL
+MCHC: 33.8 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 31 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 14.6 %  Reference: 11.5-14.5 %
+Neutrophils: 79 %  Reference: 40-70 %
+Lymphocytes: 14.3 %  Reference: 20-40 %",Abnormal,14.5,g/dL,12.0,16.0,Normal,42.5,%,36.0,46.0,Normal,184000,/µL,150000.0,450000.0,Normal,83.9,fL,80.0,100.0,Normal,33.8,g/dL,32.0,36.0,Normal,31.0,pg,27.0,33.0,Normal,14.6,%,11.5,14.5,High,79.0,%,40.0,70.0,High,14.3,%,20.0,40.0,Low
+CBC_005,"COMPLETE BLOOD COUNT
+
+Hb: 14.1 g/dL  Reference: 12-16 g/dL
+PCV: 40.7 %  Reference: 36-46 %
+Platelets: 242,000 /µL  Reference: 150000-450000 /µL
+MCV: 85.9 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.4 g/dL  Reference: 32-36 g/dL
+MCH: 31.4 pg  Reference: 27-33 pg
+RDW: 13.1 %  Reference: 11.5-14.5 %
+Neutrophil %: 57 %  Reference: 40-70 %
+Lymphocyte %: 25.8 %  Reference: 20-40 %",Normal,14.1,g/dL,12.0,16.0,Normal,40.7,%,36.0,46.0,Normal,242000,/µL,150000.0,450000.0,Normal,85.9,fL,80.0,100.0,Normal,33.4,g/dL,32.0,36.0,Normal,31.4,pg,27.0,33.0,Normal,13.1,%,11.5,14.5,Normal,57.0,%,40.0,70.0,Normal,25.8,%,20.0,40.0,Normal
+CBC_006,"COMPLETE BLOOD COUNT
+
+HGB: 12 g/dL  Reference: 12-16 g/dL
+HCT: 34.8 %  Reference: 36-46 %
+PLT: 561,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 97.8 fL  Reference: 80-100 fL
+MCHC: 33.6 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 31.3 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.6 %  Reference: 11.5-14.5 %
+NE%: 50.9 %  Reference: 40-70 %
+LY%: 26.2 %  Reference: 20-40 %",Abnormal,12.0,g/dL,12.0,16.0,Normal,34.8,%,36.0,46.0,Low,561000,/µL,150000.0,450000.0,High,97.8,fL,80.0,100.0,Normal,33.6,g/dL,32.0,36.0,Normal,31.3,pg,27.0,33.0,Normal,12.6,%,11.5,14.5,Normal,50.9,%,40.0,70.0,Normal,26.2,%,20.0,40.0,Normal
+CBC_007,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 16.1 g/dL  Reference: 12-16 g/dL
+Hematocrit: 46.6 %  Reference: 36-46 %
+Platelet Count: 311,000 /µL  Reference: 150000-450000 /µL
+MCV: 84.5 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 34.2 g/dL  Reference: 32-36 g/dL
+MCH: 30.2 pg  Reference: 27-33 pg
+RDW: 12.9 %  Reference: 11.5-14.5 %
+Neutrophils: 73.3 %  Reference: 40-70 %
+Lymphocytes: 10.4 %  Reference: 20-40 %",Abnormal,16.1,g/dL,12.0,16.0,High,46.6,%,36.0,46.0,High,311000,/µL,150000.0,450000.0,Normal,84.5,fL,80.0,100.0,Normal,34.2,g/dL,32.0,36.0,Normal,30.2,pg,27.0,33.0,Normal,12.9,%,11.5,14.5,Normal,73.3,%,40.0,70.0,High,10.4,%,20.0,40.0,Low
+CBC_008,"COMPLETE BLOOD COUNT
+
+Hb: 11.2 g/dL  Reference: 12-16 g/dL
+PCV: 31.4 %  Reference: 36-46 %
+Platelets: 274,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 66.3 fL  Reference: 80-100 fL
+MCHC: 33.6 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 24.5 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 16 %  Reference: 11.5-14.5 %
+Neutrophil %: 65.8 %  Reference: 40-70 %
+Lymphocyte %: 32.1 %  Reference: 20-40 %",Abnormal,11.2,g/dL,12.0,16.0,Low,31.4,%,36.0,46.0,Low,274000,/µL,150000.0,450000.0,Normal,66.3,fL,80.0,100.0,Low,33.6,g/dL,32.0,36.0,Normal,24.5,pg,27.0,33.0,Low,16.0,%,11.5,14.5,High,65.8,%,40.0,70.0,Normal,32.1,%,20.0,40.0,Normal
+CBC_009,"COMPLETE BLOOD COUNT
+
+HGB: 12.5 g/dL  Reference: 12-16 g/dL
+HCT: 35.4 %  Reference: 36-46 %
+PLT: 356,000 /µL  Reference: 150000-450000 /µL
+MCV: 97.6 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.4 g/dL  Reference: 32-36 g/dL
+MCH: 28.8 pg  Reference: 27-33 pg
+RDW: 14.2 %  Reference: 11.5-14.5 %
+NE%: 51.4 %  Reference: 40-70 %
+LY%: 26.5 %  Reference: 20-40 %",Abnormal,12.5,g/dL,12.0,16.0,Normal,35.4,%,36.0,46.0,Low,356000,/µL,150000.0,450000.0,Normal,97.6,fL,80.0,100.0,Normal,33.4,g/dL,32.0,36.0,Normal,28.8,pg,27.0,33.0,Normal,14.2,%,11.5,14.5,Normal,51.4,%,40.0,70.0,Normal,26.5,%,20.0,40.0,Normal
+CBC_010,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 14.5 g/dL  Reference: 12-16 g/dL
+Hematocrit: 42.3 %  Reference: 36-46 %
+Platelet Count: 265,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 88.2 fL  Reference: 80-100 fL
+MCHC: 33.8 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 32 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.1 %  Reference: 11.5-14.5 %
+Neutrophils: 61.9 %  Reference: 40-70 %
+Lymphocytes: 20.7 %  Reference: 20-40 %",Normal,14.5,g/dL,12.0,16.0,Normal,42.3,%,36.0,46.0,Normal,265000,/µL,150000.0,450000.0,Normal,88.2,fL,80.0,100.0,Normal,33.8,g/dL,32.0,36.0,Normal,32.0,pg,27.0,33.0,Normal,13.1,%,11.5,14.5,Normal,61.9,%,40.0,70.0,Normal,20.7,%,20.0,40.0,Normal
+CBC_011,"COMPLETE BLOOD COUNT
+
+Hb: 13.7 g/dL  Reference: 12-16 g/dL
+PCV: 39.6 %  Reference: 36-46 %
+Platelets: 198,000 /µL  Reference: 150000-450000 /µL
+MCV: 84.6 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.2 g/dL  Reference: 32-36 g/dL
+MCH: 31.1 pg  Reference: 27-33 pg
+RDW: 11.9 %  Reference: 11.5-14.5 %
+Neutrophil %: 58.2 %  Reference: 40-70 %
+Lymphocyte %: 28.6 %  Reference: 20-40 %",Normal,13.7,g/dL,12.0,16.0,Normal,39.6,%,36.0,46.0,Normal,198000,/µL,150000.0,450000.0,Normal,84.6,fL,80.0,100.0,Normal,33.2,g/dL,32.0,36.0,Normal,31.1,pg,27.0,33.0,Normal,11.9,%,11.5,14.5,Normal,58.2,%,40.0,70.0,Normal,28.6,%,20.0,40.0,Normal
+CBC_012,"COMPLETE BLOOD COUNT
+
+HGB: 13.4 g/dL  Reference: 12-16 g/dL
+HCT: 40.7 %  Reference: 36-46 %
+PLT: 96,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 95.7 fL  Reference: 80-100 fL
+MCHC: 33.4 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 28.2 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.8 %  Reference: 11.5-14.5 %
+NE%: 59.5 %  Reference: 40-70 %
+LY%: 31.9 %  Reference: 20-40 %",Abnormal,13.4,g/dL,12.0,16.0,Normal,40.7,%,36.0,46.0,Normal,96000,/µL,150000.0,450000.0,Low,95.7,fL,80.0,100.0,Normal,33.4,g/dL,32.0,36.0,Normal,28.2,pg,27.0,33.0,Normal,12.8,%,11.5,14.5,Normal,59.5,%,40.0,70.0,Normal,31.9,%,20.0,40.0,Normal
+CBC_013,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 16.3 g/dL  Reference: 12-16 g/dL
+Hematocrit: 52.8 %  Reference: 36-46 %
+Platelet Count: 403,000 /µL  Reference: 150000-450000 /µL
+MCV: 98.4 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 32.8 g/dL  Reference: 32-36 g/dL
+MCH: 29 pg  Reference: 27-33 pg
+RDW: 11.8 %  Reference: 11.5-14.5 %
+Neutrophils: 54.5 %  Reference: 40-70 %
+Lymphocytes: 32.6 %  Reference: 20-40 %",Abnormal,16.3,g/dL,12.0,16.0,High,52.8,%,36.0,46.0,High,403000,/µL,150000.0,450000.0,Normal,98.4,fL,80.0,100.0,Normal,32.8,g/dL,32.0,36.0,Normal,29.0,pg,27.0,33.0,Normal,11.8,%,11.5,14.5,Normal,54.5,%,40.0,70.0,Normal,32.6,%,20.0,40.0,Normal
+CBC_014,"COMPLETE BLOOD COUNT
+
+Hb: 10.1 g/dL  Reference: 12-16 g/dL
+PCV: 30.5 %  Reference: 36-46 %
+Platelets: 256,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 75.4 fL  Reference: 80-100 fL
+MCHC: 33.1 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 24.9 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 15.4 %  Reference: 11.5-14.5 %
+Neutrophil %: 47.5 %  Reference: 40-70 %
+Lymphocyte %: 23.7 %  Reference: 20-40 %",Abnormal,10.1,g/dL,12.0,16.0,Low,30.5,%,36.0,46.0,Low,256000,/µL,150000.0,450000.0,Normal,75.4,fL,80.0,100.0,Low,33.1,g/dL,32.0,36.0,Normal,24.9,pg,27.0,33.0,Low,15.4,%,11.5,14.5,High,47.5,%,40.0,70.0,Normal,23.7,%,20.0,40.0,Normal
+CBC_015,"COMPLETE BLOOD COUNT
+
+HGB: 12.5 g/dL  Reference: 12-16 g/dL
+HCT: 36.5 %  Reference: 36-46 %
+PLT: 284,000 /µL  Reference: 150000-450000 /µL
+MCV: 97.6 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 32.7 g/dL  Reference: 32-36 g/dL
+MCH: 29.1 pg  Reference: 27-33 pg
+RDW: 13.6 %  Reference: 11.5-14.5 %
+NE%: 60.6 %  Reference: 40-70 %
+LY%: 29.1 %  Reference: 20-40 %",Normal,12.5,g/dL,12.0,16.0,Normal,36.5,%,36.0,46.0,Normal,284000,/µL,150000.0,450000.0,Normal,97.6,fL,80.0,100.0,Normal,32.7,g/dL,32.0,36.0,Normal,29.1,pg,27.0,33.0,Normal,13.6,%,11.5,14.5,Normal,60.6,%,40.0,70.0,Normal,29.1,%,20.0,40.0,Normal
+CBC_016,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 13.7 g/dL  Reference: 12-16 g/dL
+Hematocrit: 38.8 %  Reference: 36-46 %
+Platelet Count: 252,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 87.7 fL  Reference: 80-100 fL
+MCHC: 33.7 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 28.5 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.4 %  Reference: 11.5-14.5 %
+Neutrophils: 64.1 %  Reference: 40-70 %
+Lymphocytes: 31.8 %  Reference: 20-40 %",Normal,13.7,g/dL,12.0,16.0,Normal,38.8,%,36.0,46.0,Normal,252000,/µL,150000.0,450000.0,Normal,87.7,fL,80.0,100.0,Normal,33.7,g/dL,32.0,36.0,Normal,28.5,pg,27.0,33.0,Normal,13.4,%,11.5,14.5,Normal,64.1,%,40.0,70.0,Normal,31.8,%,20.0,40.0,Normal
+CBC_017,"COMPLETE BLOOD COUNT
+
+Hb: 9.1 g/dL  Reference: 12-16 g/dL
+PCV: 30.8 %  Reference: 36-46 %
+Platelets: 265,000 /µL  Reference: 150000-450000 /µL
+MCV: 85.4 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.8 g/dL  Reference: 32-36 g/dL
+MCH: 29.3 pg  Reference: 27-33 pg
+RDW: 16.4 %  Reference: 11.5-14.5 %
+Neutrophil %: 67.4 %  Reference: 40-70 %
+Lymphocyte %: 30.6 %  Reference: 20-40 %",Abnormal,9.1,g/dL,12.0,16.0,Low,30.8,%,36.0,46.0,Low,265000,/µL,150000.0,450000.0,Normal,85.4,fL,80.0,100.0,Normal,33.8,g/dL,32.0,36.0,Normal,29.3,pg,27.0,33.0,Normal,16.4,%,11.5,14.5,High,67.4,%,40.0,70.0,Normal,30.6,%,20.0,40.0,Normal
+CBC_018,"COMPLETE BLOOD COUNT
+
+HGB: 12.6 g/dL  Reference: 12-16 g/dL
+HCT: 38.3 %  Reference: 36-46 %
+PLT: 279,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 91.4 fL  Reference: 80-100 fL
+MCHC: 32.1 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 31.2 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.4 %  Reference: 11.5-14.5 %
+NE%: 51.3 %  Reference: 40-70 %
+LY%: 28.6 %  Reference: 20-40 %",Normal,12.6,g/dL,12.0,16.0,Normal,38.3,%,36.0,46.0,Normal,279000,/µL,150000.0,450000.0,Normal,91.4,fL,80.0,100.0,Normal,32.1,g/dL,32.0,36.0,Normal,31.2,pg,27.0,33.0,Normal,13.4,%,11.5,14.5,Normal,51.3,%,40.0,70.0,Normal,28.6,%,20.0,40.0,Normal
+CBC_019,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 11.1 g/dL  Reference: 12-16 g/dL
+Hematocrit: 30.7 %  Reference: 36-46 %
+Platelet Count: 249,000 /µL  Reference: 150000-450000 /µL
+MCV: 67 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.3 g/dL  Reference: 32-36 g/dL
+MCH: 22.9 pg  Reference: 27-33 pg
+RDW: 16.7 %  Reference: 11.5-14.5 %
+Neutrophils: 42.6 %  Reference: 40-70 %
+Lymphocytes: 29.8 %  Reference: 20-40 %",Abnormal,11.1,g/dL,12.0,16.0,Low,30.7,%,36.0,46.0,Low,249000,/µL,150000.0,450000.0,Normal,67.0,fL,80.0,100.0,Low,33.3,g/dL,32.0,36.0,Normal,22.9,pg,27.0,33.0,Low,16.7,%,11.5,14.5,High,42.6,%,40.0,70.0,Normal,29.8,%,20.0,40.0,Normal
+CBC_020,"COMPLETE BLOOD COUNT
+
+Hb: 17 g/dL  Reference: 12-16 g/dL
+PCV: 49.3 %  Reference: 36-46 %
+Platelets: 313,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 87.4 fL  Reference: 80-100 fL
+MCHC: 33.5 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 27.6 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.7 %  Reference: 11.5-14.5 %
+Neutrophil %: 65.8 %  Reference: 40-70 %
+Lymphocyte %: 32.2 %  Reference: 20-40 %",Abnormal,17.0,g/dL,12.0,16.0,High,49.3,%,36.0,46.0,High,313000,/µL,150000.0,450000.0,Normal,87.4,fL,80.0,100.0,Normal,33.5,g/dL,32.0,36.0,Normal,27.6,pg,27.0,33.0,Normal,12.7,%,11.5,14.5,Normal,65.8,%,40.0,70.0,Normal,32.2,%,20.0,40.0,Normal
+CBC_021,"COMPLETE BLOOD COUNT
+
+HGB: 14.3 g/dL  Reference: 12-16 g/dL
+HCT: 44.1 %  Reference: 36-46 %
+PLT: 289,000 /µL  Reference: 150000-450000 /µL
+MCV: 93.1 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.3 g/dL  Reference: 32-36 g/dL
+MCH: 29.6 pg  Reference: 27-33 pg
+RDW: 12.4 %  Reference: 11.5-14.5 %
+NE%: 80.7 %  Reference: 40-70 %
+LY%: 17.3 %  Reference: 20-40 %",Abnormal,14.3,g/dL,12.0,16.0,Normal,44.1,%,36.0,46.0,Normal,289000,/µL,150000.0,450000.0,Normal,93.1,fL,80.0,100.0,Normal,33.3,g/dL,32.0,36.0,Normal,29.6,pg,27.0,33.0,Normal,12.4,%,11.5,14.5,Normal,80.7,%,40.0,70.0,High,17.3,%,20.0,40.0,Low
+CBC_022,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 13.9 g/dL  Reference: 12-16 g/dL
+Hematocrit: 42.2 %  Reference: 36-46 %
+Platelet Count: 306,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 98.1 fL  Reference: 80-100 fL
+MCHC: 34.1 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 26.7 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.9 %  Reference: 11.5-14.5 %
+Neutrophils: 51 %  Reference: 40-70 %
+Lymphocytes: 28.4 %  Reference: 20-40 %",Abnormal,13.9,g/dL,12.0,16.0,Normal,42.2,%,36.0,46.0,Normal,306000,/µL,150000.0,450000.0,Normal,98.1,fL,80.0,100.0,Normal,34.1,g/dL,32.0,36.0,Normal,26.7,pg,27.0,33.0,Low,12.9,%,11.5,14.5,Normal,51.0,%,40.0,70.0,Normal,28.4,%,20.0,40.0,Normal
+CBC_023,"COMPLETE BLOOD COUNT
+
+Hb: 15.5 g/dL  Reference: 12-16 g/dL
+PCV: 46.4 %  Reference: 36-46 %
+Platelets: 565,000 /µL  Reference: 150000-450000 /µL
+MCV: 83.9 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.5 g/dL  Reference: 32-36 g/dL
+MCH: 27.3 pg  Reference: 27-33 pg
+RDW: 12.5 %  Reference: 11.5-14.5 %
+Neutrophil %: 59.9 %  Reference: 40-70 %
+Lymphocyte %: 36.8 %  Reference: 20-40 %",Abnormal,15.5,g/dL,12.0,16.0,Normal,46.4,%,36.0,46.0,High,565000,/µL,150000.0,450000.0,High,83.9,fL,80.0,100.0,Normal,33.5,g/dL,32.0,36.0,Normal,27.3,pg,27.0,33.0,Normal,12.5,%,11.5,14.5,Normal,59.9,%,40.0,70.0,Normal,36.8,%,20.0,40.0,Normal
+CBC_024,"COMPLETE BLOOD COUNT
+
+HGB: 11.3 g/dL  Reference: 12-16 g/dL
+HCT: 33.5 %  Reference: 36-46 %
+PLT: 95,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 91.1 fL  Reference: 80-100 fL
+MCHC: 34.8 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 25.8 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.5 %  Reference: 11.5-14.5 %
+NE%: 61.5 %  Reference: 40-70 %
+LY%: 23.1 %  Reference: 20-40 %",Abnormal,11.3,g/dL,12.0,16.0,Low,33.5,%,36.0,46.0,Low,95000,/µL,150000.0,450000.0,Low,91.1,fL,80.0,100.0,Normal,34.8,g/dL,32.0,36.0,Normal,25.8,pg,27.0,33.0,Low,12.5,%,11.5,14.5,Normal,61.5,%,40.0,70.0,Normal,23.1,%,20.0,40.0,Normal
+CBC_025,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 14.2 g/dL  Reference: 12-16 g/dL
+Hematocrit: 42.9 %  Reference: 36-46 %
+Platelet Count: 234,000 /µL  Reference: 150000-450000 /µL
+MCV: 93.1 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 34.4 g/dL  Reference: 32-36 g/dL
+MCH: 29.9 pg  Reference: 27-33 pg
+RDW: 13.2 %  Reference: 11.5-14.5 %
+Neutrophils: 75.4 %  Reference: 40-70 %
+Lymphocytes: 11.4 %  Reference: 20-40 %",Abnormal,14.2,g/dL,12.0,16.0,Normal,42.9,%,36.0,46.0,Normal,234000,/µL,150000.0,450000.0,Normal,93.1,fL,80.0,100.0,Normal,34.4,g/dL,32.0,36.0,Normal,29.9,pg,27.0,33.0,Normal,13.2,%,11.5,14.5,Normal,75.4,%,40.0,70.0,High,11.4,%,20.0,40.0,Low
+CBC_026,"COMPLETE BLOOD COUNT
+
+Hb: 14.2 g/dL  Reference: 12-16 g/dL
+PCV: 43.1 %  Reference: 36-46 %
+Platelets: 207,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 88.4 fL  Reference: 80-100 fL
+MCHC: 34.7 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 28.2 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.3 %  Reference: 11.5-14.5 %
+Neutrophil %: 59.2 %  Reference: 40-70 %
+Lymphocyte %: 35.2 %  Reference: 20-40 %",Normal,14.2,g/dL,12.0,16.0,Normal,43.1,%,36.0,46.0,Normal,207000,/µL,150000.0,450000.0,Normal,88.4,fL,80.0,100.0,Normal,34.7,g/dL,32.0,36.0,Normal,28.2,pg,27.0,33.0,Normal,12.3,%,11.5,14.5,Normal,59.2,%,40.0,70.0,Normal,35.2,%,20.0,40.0,Normal
+CBC_027,"COMPLETE BLOOD COUNT
+
+HGB: 13.8 g/dL  Reference: 12-16 g/dL
+HCT: 42.2 %  Reference: 36-46 %
+PLT: 312,000 /µL  Reference: 150000-450000 /µL
+MCV: 93.2 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.9 g/dL  Reference: 32-36 g/dL
+MCH: 33.7 pg  Reference: 27-33 pg
+RDW: 12.8 %  Reference: 11.5-14.5 %
+NE%: 46 %  Reference: 40-70 %
+LY%: 39 %  Reference: 20-40 %",Abnormal,13.8,g/dL,12.0,16.0,Normal,42.2,%,36.0,46.0,Normal,312000,/µL,150000.0,450000.0,Normal,93.2,fL,80.0,100.0,Normal,33.9,g/dL,32.0,36.0,Normal,33.7,pg,27.0,33.0,High,12.8,%,11.5,14.5,Normal,46.0,%,40.0,70.0,Normal,39.0,%,20.0,40.0,Normal
+CBC_028,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 13.3 g/dL  Reference: 12-16 g/dL
+Hematocrit: 39.3 %  Reference: 36-46 %
+Platelet Count: 337,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 81 fL  Reference: 80-100 fL
+MCHC: 32.5 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 26.6 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.4 %  Reference: 11.5-14.5 %
+Neutrophils: 60.6 %  Reference: 40-70 %
+Lymphocytes: 33.6 %  Reference: 20-40 %",Abnormal,13.3,g/dL,12.0,16.0,Normal,39.3,%,36.0,46.0,Normal,337000,/µL,150000.0,450000.0,Normal,81.0,fL,80.0,100.0,Normal,32.5,g/dL,32.0,36.0,Normal,26.6,pg,27.0,33.0,Low,12.4,%,11.5,14.5,Normal,60.6,%,40.0,70.0,Normal,33.6,%,20.0,40.0,Normal
+CBC_029,"COMPLETE BLOOD COUNT
+
+Hb: 14.1 g/dL  Reference: 12-16 g/dL
+PCV: 40 %  Reference: 36-46 %
+Platelets: 138,000 /µL  Reference: 150000-450000 /µL
+MCV: 89.3 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.1 g/dL  Reference: 32-36 g/dL
+MCH: 30.3 pg  Reference: 27-33 pg
+RDW: 13.6 %  Reference: 11.5-14.5 %
+Neutrophil %: 58.8 %  Reference: 40-70 %
+Lymphocyte %: 34.8 %  Reference: 20-40 %",Abnormal,14.1,g/dL,12.0,16.0,Normal,40.0,%,36.0,46.0,Normal,138000,/µL,150000.0,450000.0,Low,89.3,fL,80.0,100.0,Normal,33.1,g/dL,32.0,36.0,Normal,30.3,pg,27.0,33.0,Normal,13.6,%,11.5,14.5,Normal,58.8,%,40.0,70.0,Normal,34.8,%,20.0,40.0,Normal
+CBC_030,"COMPLETE BLOOD COUNT
+
+HGB: 14.1 g/dL  Reference: 12-16 g/dL
+HCT: 42 %  Reference: 36-46 %
+PLT: 226,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 88.1 fL  Reference: 80-100 fL
+MCHC: 33.7 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 31 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.7 %  Reference: 11.5-14.5 %
+NE%: 71.1 %  Reference: 40-70 %
+LY%: 10.5 %  Reference: 20-40 %",Abnormal,14.1,g/dL,12.0,16.0,Normal,42.0,%,36.0,46.0,Normal,226000,/µL,150000.0,450000.0,Normal,88.1,fL,80.0,100.0,Normal,33.7,g/dL,32.0,36.0,Normal,31.0,pg,27.0,33.0,Normal,12.7,%,11.5,14.5,Normal,71.1,%,40.0,70.0,High,10.5,%,20.0,40.0,Low
+CBC_031,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 11.6 g/dL  Reference: 12-16 g/dL
+Hematocrit: 33 %  Reference: 36-46 %
+Platelet Count: 183,000 /µL  Reference: 150000-450000 /µL
+MCV: 77.3 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33 g/dL  Reference: 32-36 g/dL
+MCH: 30.8 pg  Reference: 27-33 pg
+RDW: 12.8 %  Reference: 11.5-14.5 %
+Neutrophils: 82.7 %  Reference: 40-70 %
+Lymphocytes: 10.4 %  Reference: 20-40 %",Abnormal,11.6,g/dL,12.0,16.0,Low,33.0,%,36.0,46.0,Low,183000,/µL,150000.0,450000.0,Normal,77.3,fL,80.0,100.0,Low,33.0,g/dL,32.0,36.0,Normal,30.8,pg,27.0,33.0,Normal,12.8,%,11.5,14.5,Normal,82.7,%,40.0,70.0,High,10.4,%,20.0,40.0,Low
+CBC_032,"COMPLETE BLOOD COUNT
+
+Hb: 13 g/dL  Reference: 12-16 g/dL
+PCV: 39.6 %  Reference: 36-46 %
+Platelets: 646,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 84.8 fL  Reference: 80-100 fL
+MCHC: 33 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 26.8 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.3 %  Reference: 11.5-14.5 %
+Neutrophil %: 55.9 %  Reference: 40-70 %
+Lymphocyte %: 35 %  Reference: 20-40 %",Abnormal,13.0,g/dL,12.0,16.0,Normal,39.6,%,36.0,46.0,Normal,646000,/µL,150000.0,450000.0,High,84.8,fL,80.0,100.0,Normal,33.0,g/dL,32.0,36.0,Normal,26.8,pg,27.0,33.0,Low,12.3,%,11.5,14.5,Normal,55.9,%,40.0,70.0,Normal,35.0,%,20.0,40.0,Normal
+CBC_033,"COMPLETE BLOOD COUNT
+
+HGB: 12.3 g/dL  Reference: 12-16 g/dL
+HCT: 36.6 %  Reference: 36-46 %
+PLT: 208,000 /µL  Reference: 150000-450000 /µL
+MCV: 91.4 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.4 g/dL  Reference: 32-36 g/dL
+MCH: 26.2 pg  Reference: 27-33 pg
+RDW: 13.7 %  Reference: 11.5-14.5 %
+NE%: 54.4 %  Reference: 40-70 %
+LY%: 28.3 %  Reference: 20-40 %",Abnormal,12.3,g/dL,12.0,16.0,Normal,36.6,%,36.0,46.0,Normal,208000,/µL,150000.0,450000.0,Normal,91.4,fL,80.0,100.0,Normal,33.4,g/dL,32.0,36.0,Normal,26.2,pg,27.0,33.0,Low,13.7,%,11.5,14.5,Normal,54.4,%,40.0,70.0,Normal,28.3,%,20.0,40.0,Normal
+CBC_034,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 12.6 g/dL  Reference: 12-16 g/dL
+Hematocrit: 36.6 %  Reference: 36-46 %
+Platelet Count: 289,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 88.1 fL  Reference: 80-100 fL
+MCHC: 33.8 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 30.2 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 14.1 %  Reference: 11.5-14.5 %
+Neutrophils: 55.9 %  Reference: 40-70 %
+Lymphocytes: 23.6 %  Reference: 20-40 %",Normal,12.6,g/dL,12.0,16.0,Normal,36.6,%,36.0,46.0,Normal,289000,/µL,150000.0,450000.0,Normal,88.1,fL,80.0,100.0,Normal,33.8,g/dL,32.0,36.0,Normal,30.2,pg,27.0,33.0,Normal,14.1,%,11.5,14.5,Normal,55.9,%,40.0,70.0,Normal,23.6,%,20.0,40.0,Normal
+CBC_035,"COMPLETE BLOOD COUNT
+
+Hb: 15 g/dL  Reference: 12-16 g/dL
+PCV: 43.8 %  Reference: 36-46 %
+Platelets: 326,000 /µL  Reference: 150000-450000 /µL
+MCV: 90.9 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.4 g/dL  Reference: 32-36 g/dL
+MCH: 30.1 pg  Reference: 27-33 pg
+RDW: 14.6 %  Reference: 11.5-14.5 %
+Neutrophil %: 70.5 %  Reference: 40-70 %
+Lymphocyte %: 27.5 %  Reference: 20-40 %",Abnormal,15.0,g/dL,12.0,16.0,Normal,43.8,%,36.0,46.0,Normal,326000,/µL,150000.0,450000.0,Normal,90.9,fL,80.0,100.0,Normal,33.4,g/dL,32.0,36.0,Normal,30.1,pg,27.0,33.0,Normal,14.6,%,11.5,14.5,High,70.5,%,40.0,70.0,High,27.5,%,20.0,40.0,Normal
+CBC_036,"COMPLETE BLOOD COUNT
+
+HGB: 14 g/dL  Reference: 12-16 g/dL
+HCT: 42.4 %  Reference: 36-46 %
+PLT: 218,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 90.7 fL  Reference: 80-100 fL
+MCHC: 33.5 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 30.1 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.3 %  Reference: 11.5-14.5 %
+NE%: 48.5 %  Reference: 40-70 %
+LY%: 20.6 %  Reference: 20-40 %",Normal,14.0,g/dL,12.0,16.0,Normal,42.4,%,36.0,46.0,Normal,218000,/µL,150000.0,450000.0,Normal,90.7,fL,80.0,100.0,Normal,33.5,g/dL,32.0,36.0,Normal,30.1,pg,27.0,33.0,Normal,12.3,%,11.5,14.5,Normal,48.5,%,40.0,70.0,Normal,20.6,%,20.0,40.0,Normal
+CBC_037,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 12.6 g/dL  Reference: 12-16 g/dL
+Hematocrit: 36.6 %  Reference: 36-46 %
+Platelet Count: 249,000 /µL  Reference: 150000-450000 /µL
+MCV: 98.7 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 34.4 g/dL  Reference: 32-36 g/dL
+MCH: 27.8 pg  Reference: 27-33 pg
+RDW: 13.3 %  Reference: 11.5-14.5 %
+Neutrophils: 55.6 %  Reference: 40-70 %
+Lymphocytes: 29.6 %  Reference: 20-40 %",Normal,12.6,g/dL,12.0,16.0,Normal,36.6,%,36.0,46.0,Normal,249000,/µL,150000.0,450000.0,Normal,98.7,fL,80.0,100.0,Normal,34.4,g/dL,32.0,36.0,Normal,27.8,pg,27.0,33.0,Normal,13.3,%,11.5,14.5,Normal,55.6,%,40.0,70.0,Normal,29.6,%,20.0,40.0,Normal
+CBC_038,"COMPLETE BLOOD COUNT
+
+Hb: 14 g/dL  Reference: 12-16 g/dL
+PCV: 42 %  Reference: 36-46 %
+Platelets: 246,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 94.3 fL  Reference: 80-100 fL
+MCHC: 32.6 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 29.5 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 15.1 %  Reference: 11.5-14.5 %
+Neutrophil %: 59.3 %  Reference: 40-70 %
+Lymphocyte %: 38.2 %  Reference: 20-40 %",Abnormal,14.0,g/dL,12.0,16.0,Normal,42.0,%,36.0,46.0,Normal,246000,/µL,150000.0,450000.0,Normal,94.3,fL,80.0,100.0,Normal,32.6,g/dL,32.0,36.0,Normal,29.5,pg,27.0,33.0,Normal,15.1,%,11.5,14.5,High,59.3,%,40.0,70.0,Normal,38.2,%,20.0,40.0,Normal
+CBC_039,"COMPLETE BLOOD COUNT
+
+HGB: 13.9 g/dL  Reference: 12-16 g/dL
+HCT: 41.7 %  Reference: 36-46 %
+PLT: 262,000 /µL  Reference: 150000-450000 /µL
+MCV: 88.1 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 32.9 g/dL  Reference: 32-36 g/dL
+MCH: 30.3 pg  Reference: 27-33 pg
+RDW: 12.3 %  Reference: 11.5-14.5 %
+NE%: 62 %  Reference: 40-70 %
+LY%: 36 %  Reference: 20-40 %",Normal,13.9,g/dL,12.0,16.0,Normal,41.7,%,36.0,46.0,Normal,262000,/µL,150000.0,450000.0,Normal,88.1,fL,80.0,100.0,Normal,32.9,g/dL,32.0,36.0,Normal,30.3,pg,27.0,33.0,Normal,12.3,%,11.5,14.5,Normal,62.0,%,40.0,70.0,Normal,36.0,%,20.0,40.0,Normal
+CBC_040,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 16.8 g/dL  Reference: 12-16 g/dL
+Hematocrit: 48.1 %  Reference: 36-46 %
+Platelet Count: 290,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 87.5 fL  Reference: 80-100 fL
+MCHC: 34.2 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 26.2 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.7 %  Reference: 11.5-14.5 %
+Neutrophils: 46.1 %  Reference: 40-70 %
+Lymphocytes: 23.5 %  Reference: 20-40 %",Abnormal,16.8,g/dL,12.0,16.0,High,48.1,%,36.0,46.0,High,290000,/µL,150000.0,450000.0,Normal,87.5,fL,80.0,100.0,Normal,34.2,g/dL,32.0,36.0,Normal,26.2,pg,27.0,33.0,Low,12.7,%,11.5,14.5,Normal,46.1,%,40.0,70.0,Normal,23.5,%,20.0,40.0,Normal
+CBC_041,"COMPLETE BLOOD COUNT
+
+Hb: 13 g/dL  Reference: 12-16 g/dL
+PCV: 36.8 %  Reference: 36-46 %
+Platelets: 102,000 /µL  Reference: 150000-450000 /µL
+MCV: 86.3 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 35.4 g/dL  Reference: 32-36 g/dL
+MCH: 30.3 pg  Reference: 27-33 pg
+RDW: 12.6 %  Reference: 11.5-14.5 %
+Neutrophil %: 60.8 %  Reference: 40-70 %
+Lymphocyte %: 23.2 %  Reference: 20-40 %",Abnormal,13.0,g/dL,12.0,16.0,Normal,36.8,%,36.0,46.0,Normal,102000,/µL,150000.0,450000.0,Low,86.3,fL,80.0,100.0,Normal,35.4,g/dL,32.0,36.0,Normal,30.3,pg,27.0,33.0,Normal,12.6,%,11.5,14.5,Normal,60.8,%,40.0,70.0,Normal,23.2,%,20.0,40.0,Normal
+CBC_042,"COMPLETE BLOOD COUNT
+
+HGB: 10.9 g/dL  Reference: 12-16 g/dL
+HCT: 34.5 %  Reference: 36-46 %
+PLT: 260,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 78.9 fL  Reference: 80-100 fL
+MCHC: 33.8 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 20.8 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 16.8 %  Reference: 11.5-14.5 %
+NE%: 63.4 %  Reference: 40-70 %
+LY%: 34.6 %  Reference: 20-40 %",Abnormal,10.9,g/dL,12.0,16.0,Low,34.5,%,36.0,46.0,Low,260000,/µL,150000.0,450000.0,Normal,78.9,fL,80.0,100.0,Low,33.8,g/dL,32.0,36.0,Normal,20.8,pg,27.0,33.0,Low,16.8,%,11.5,14.5,High,63.4,%,40.0,70.0,Normal,34.6,%,20.0,40.0,Normal
+CBC_043,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 13.3 g/dL  Reference: 12-16 g/dL
+Hematocrit: 40.8 %  Reference: 36-46 %
+Platelet Count: 272,000 /µL  Reference: 150000-450000 /µL
+MCV: 90.3 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 34.8 g/dL  Reference: 32-36 g/dL
+MCH: 28.8 pg  Reference: 27-33 pg
+RDW: 12.2 %  Reference: 11.5-14.5 %
+Neutrophils: 74.3 %  Reference: 40-70 %
+Lymphocytes: 12.6 %  Reference: 20-40 %",Abnormal,13.3,g/dL,12.0,16.0,Normal,40.8,%,36.0,46.0,Normal,272000,/µL,150000.0,450000.0,Normal,90.3,fL,80.0,100.0,Normal,34.8,g/dL,32.0,36.0,Normal,28.8,pg,27.0,33.0,Normal,12.2,%,11.5,14.5,Normal,74.3,%,40.0,70.0,High,12.6,%,20.0,40.0,Low
+CBC_044,"COMPLETE BLOOD COUNT
+
+Hb: 13.2 g/dL  Reference: 12-16 g/dL
+PCV: 40.2 %  Reference: 36-46 %
+Platelets: 133,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 85.1 fL  Reference: 80-100 fL
+MCHC: 32.2 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 28 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.2 %  Reference: 11.5-14.5 %
+Neutrophil %: 56.9 %  Reference: 40-70 %
+Lymphocyte %: 29.7 %  Reference: 20-40 %",Abnormal,13.2,g/dL,12.0,16.0,Normal,40.2,%,36.0,46.0,Normal,133000,/µL,150000.0,450000.0,Low,85.1,fL,80.0,100.0,Normal,32.2,g/dL,32.0,36.0,Normal,28.0,pg,27.0,33.0,Normal,13.2,%,11.5,14.5,Normal,56.9,%,40.0,70.0,Normal,29.7,%,20.0,40.0,Normal
+CBC_045,"COMPLETE BLOOD COUNT
+
+HGB: 10.8 g/dL  Reference: 12-16 g/dL
+HCT: 34.9 %  Reference: 36-46 %
+PLT: 210,000 /µL  Reference: 150000-450000 /µL
+MCV: 73.2 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 34 g/dL  Reference: 32-36 g/dL
+MCH: 25.1 pg  Reference: 27-33 pg
+RDW: 16.4 %  Reference: 11.5-14.5 %
+NE%: 59.8 %  Reference: 40-70 %
+LY%: 38.2 %  Reference: 20-40 %",Abnormal,10.8,g/dL,12.0,16.0,Low,34.9,%,36.0,46.0,Low,210000,/µL,150000.0,450000.0,Normal,73.2,fL,80.0,100.0,Low,34.0,g/dL,32.0,36.0,Normal,25.1,pg,27.0,33.0,Low,16.4,%,11.5,14.5,High,59.8,%,40.0,70.0,Normal,38.2,%,20.0,40.0,Normal
+CBC_046,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 10.6 g/dL  Reference: 12-16 g/dL
+Hematocrit: 31 %  Reference: 36-46 %
+Platelet Count: 283,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 73.4 fL  Reference: 80-100 fL
+MCHC: 32.9 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 20 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 16.1 %  Reference: 11.5-14.5 %
+Neutrophils: 57 %  Reference: 40-70 %
+Lymphocytes: 27.7 %  Reference: 20-40 %",Abnormal,10.6,g/dL,12.0,16.0,Low,31.0,%,36.0,46.0,Low,283000,/µL,150000.0,450000.0,Normal,73.4,fL,80.0,100.0,Low,32.9,g/dL,32.0,36.0,Normal,20.0,pg,27.0,33.0,Low,16.1,%,11.5,14.5,High,57.0,%,40.0,70.0,Normal,27.7,%,20.0,40.0,Normal
+CBC_047,"COMPLETE BLOOD COUNT
+
+Hb: 12.8 g/dL  Reference: 12-16 g/dL
+PCV: 38 %  Reference: 36-46 %
+Platelets: 185,000 /µL  Reference: 150000-450000 /µL
+MCV: 95.7 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 34.5 g/dL  Reference: 32-36 g/dL
+MCH: 29 pg  Reference: 27-33 pg
+RDW: 13.3 %  Reference: 11.5-14.5 %
+Neutrophil %: 43.5 %  Reference: 40-70 %
+Lymphocyte %: 25.2 %  Reference: 20-40 %",Normal,12.8,g/dL,12.0,16.0,Normal,38.0,%,36.0,46.0,Normal,185000,/µL,150000.0,450000.0,Normal,95.7,fL,80.0,100.0,Normal,34.5,g/dL,32.0,36.0,Normal,29.0,pg,27.0,33.0,Normal,13.3,%,11.5,14.5,Normal,43.5,%,40.0,70.0,Normal,25.2,%,20.0,40.0,Normal
+CBC_048,"COMPLETE BLOOD COUNT
+
+HGB: 13.5 g/dL  Reference: 12-16 g/dL
+HCT: 38.6 %  Reference: 36-46 %
+PLT: 304,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 99 fL  Reference: 80-100 fL
+MCHC: 32.6 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 28 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.2 %  Reference: 11.5-14.5 %
+NE%: 67.7 %  Reference: 40-70 %
+LY%: 24.9 %  Reference: 20-40 %",Normal,13.5,g/dL,12.0,16.0,Normal,38.6,%,36.0,46.0,Normal,304000,/µL,150000.0,450000.0,Normal,99.0,fL,80.0,100.0,Normal,32.6,g/dL,32.0,36.0,Normal,28.0,pg,27.0,33.0,Normal,13.2,%,11.5,14.5,Normal,67.7,%,40.0,70.0,Normal,24.9,%,20.0,40.0,Normal
+CBC_049,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 14.1 g/dL  Reference: 12-16 g/dL
+Hematocrit: 43.6 %  Reference: 36-46 %
+Platelet Count: 174,000 /µL  Reference: 150000-450000 /µL
+MCV: 82.6 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.2 g/dL  Reference: 32-36 g/dL
+MCH: 28.6 pg  Reference: 27-33 pg
+RDW: 13.7 %  Reference: 11.5-14.5 %
+Neutrophils: 76.8 %  Reference: 40-70 %
+Lymphocytes: 17.1 %  Reference: 20-40 %",Abnormal,14.1,g/dL,12.0,16.0,Normal,43.6,%,36.0,46.0,Normal,174000,/µL,150000.0,450000.0,Normal,82.6,fL,80.0,100.0,Normal,33.2,g/dL,32.0,36.0,Normal,28.6,pg,27.0,33.0,Normal,13.7,%,11.5,14.5,Normal,76.8,%,40.0,70.0,High,17.1,%,20.0,40.0,Low
+CBC_050,"COMPLETE BLOOD COUNT
+
+Hb: 15.2 g/dL  Reference: 12-16 g/dL
+PCV: 44.1 %  Reference: 36-46 %
+Platelets: 230,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 91.7 fL  Reference: 80-100 fL
+MCHC: 34.1 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 30.3 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 11.7 %  Reference: 11.5-14.5 %
+Neutrophil %: 61.2 %  Reference: 40-70 %
+Lymphocyte %: 25.8 %  Reference: 20-40 %",Normal,15.2,g/dL,12.0,16.0,Normal,44.1,%,36.0,46.0,Normal,230000,/µL,150000.0,450000.0,Normal,91.7,fL,80.0,100.0,Normal,34.1,g/dL,32.0,36.0,Normal,30.3,pg,27.0,33.0,Normal,11.7,%,11.5,14.5,Normal,61.2,%,40.0,70.0,Normal,25.8,%,20.0,40.0,Normal
+CBC_051,"COMPLETE BLOOD COUNT
+
+HGB: 14.1 g/dL  Reference: 12-16 g/dL
+HCT: 39.9 %  Reference: 36-46 %
+PLT: 290,000 /µL  Reference: 150000-450000 /µL
+MCV: 85 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 32.5 g/dL  Reference: 32-36 g/dL
+MCH: 30.8 pg  Reference: 27-33 pg
+RDW: 13.2 %  Reference: 11.5-14.5 %
+NE%: 54.3 %  Reference: 40-70 %
+LY%: 38.3 %  Reference: 20-40 %",Normal,14.1,g/dL,12.0,16.0,Normal,39.9,%,36.0,46.0,Normal,290000,/µL,150000.0,450000.0,Normal,85.0,fL,80.0,100.0,Normal,32.5,g/dL,32.0,36.0,Normal,30.8,pg,27.0,33.0,Normal,13.2,%,11.5,14.5,Normal,54.3,%,40.0,70.0,Normal,38.3,%,20.0,40.0,Normal
+CBC_052,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 13.3 g/dL  Reference: 12-16 g/dL
+Hematocrit: 39.3 %  Reference: 36-46 %
+Platelet Count: 280,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 85.9 fL  Reference: 80-100 fL
+MCHC: 33.9 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 28.5 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.7 %  Reference: 11.5-14.5 %
+Neutrophils: 66.2 %  Reference: 40-70 %
+Lymphocytes: 25.8 %  Reference: 20-40 %",Normal,13.3,g/dL,12.0,16.0,Normal,39.3,%,36.0,46.0,Normal,280000,/µL,150000.0,450000.0,Normal,85.9,fL,80.0,100.0,Normal,33.9,g/dL,32.0,36.0,Normal,28.5,pg,27.0,33.0,Normal,12.7,%,11.5,14.5,Normal,66.2,%,40.0,70.0,Normal,25.8,%,20.0,40.0,Normal
+CBC_053,"COMPLETE BLOOD COUNT
+
+Hb: 9.7 g/dL  Reference: 12-16 g/dL
+PCV: 31.2 %  Reference: 36-46 %
+Platelets: 405,000 /µL  Reference: 150000-450000 /µL
+MCV: 75 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 32 g/dL  Reference: 32-36 g/dL
+MCH: 24.8 pg  Reference: 27-33 pg
+RDW: 19 %  Reference: 11.5-14.5 %
+Neutrophil %: 56.9 %  Reference: 40-70 %
+Lymphocyte %: 25.4 %  Reference: 20-40 %",Abnormal,9.7,g/dL,12.0,16.0,Low,31.2,%,36.0,46.0,Low,405000,/µL,150000.0,450000.0,Normal,75.0,fL,80.0,100.0,Low,32.0,g/dL,32.0,36.0,Normal,24.8,pg,27.0,33.0,Low,19.0,%,11.5,14.5,High,56.9,%,40.0,70.0,Normal,25.4,%,20.0,40.0,Normal
+CBC_054,"COMPLETE BLOOD COUNT
+
+HGB: 16.8 g/dL  Reference: 12-16 g/dL
+HCT: 47.5 %  Reference: 36-46 %
+PLT: 257,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 92.1 fL  Reference: 80-100 fL
+MCHC: 32.1 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 29.8 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.7 %  Reference: 11.5-14.5 %
+NE%: 69.1 %  Reference: 40-70 %
+LY%: 28.9 %  Reference: 20-40 %",Abnormal,16.8,g/dL,12.0,16.0,High,47.5,%,36.0,46.0,High,257000,/µL,150000.0,450000.0,Normal,92.1,fL,80.0,100.0,Normal,32.1,g/dL,32.0,36.0,Normal,29.8,pg,27.0,33.0,Normal,12.7,%,11.5,14.5,Normal,69.1,%,40.0,70.0,Normal,28.9,%,20.0,40.0,Normal
+CBC_055,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 14.4 g/dL  Reference: 12-16 g/dL
+Hematocrit: 43 %  Reference: 36-46 %
+Platelet Count: 217,000 /µL  Reference: 150000-450000 /µL
+MCV: 89.9 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 34.5 g/dL  Reference: 32-36 g/dL
+MCH: 28.9 pg  Reference: 27-33 pg
+RDW: 11.6 %  Reference: 11.5-14.5 %
+Neutrophils: 75 %  Reference: 40-70 %
+Lymphocytes: 18.1 %  Reference: 20-40 %",Abnormal,14.4,g/dL,12.0,16.0,Normal,43.0,%,36.0,46.0,Normal,217000,/µL,150000.0,450000.0,Normal,89.9,fL,80.0,100.0,Normal,34.5,g/dL,32.0,36.0,Normal,28.9,pg,27.0,33.0,Normal,11.6,%,11.5,14.5,Normal,75.0,%,40.0,70.0,High,18.1,%,20.0,40.0,Low
+CBC_056,"COMPLETE BLOOD COUNT
+
+Hb: 10.3 g/dL  Reference: 12-16 g/dL
+PCV: 30 %  Reference: 36-46 %
+Platelets: 292,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 77.2 fL  Reference: 80-100 fL
+MCHC: 31.4 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 21.7 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 17.2 %  Reference: 11.5-14.5 %
+Neutrophil %: 53.7 %  Reference: 40-70 %
+Lymphocyte %: 24.4 %  Reference: 20-40 %",Abnormal,10.3,g/dL,12.0,16.0,Low,30.0,%,36.0,46.0,Low,292000,/µL,150000.0,450000.0,Normal,77.2,fL,80.0,100.0,Low,31.4,g/dL,32.0,36.0,Low,21.7,pg,27.0,33.0,Low,17.2,%,11.5,14.5,High,53.7,%,40.0,70.0,Normal,24.4,%,20.0,40.0,Normal
+CBC_057,"COMPLETE BLOOD COUNT
+
+HGB: 14.2 g/dL  Reference: 12-16 g/dL
+HCT: 41.8 %  Reference: 36-46 %
+PLT: 310,000 /µL  Reference: 150000-450000 /µL
+MCV: 92.1 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 34.5 g/dL  Reference: 32-36 g/dL
+MCH: 28.6 pg  Reference: 27-33 pg
+RDW: 12.7 %  Reference: 11.5-14.5 %
+NE%: 55.1 %  Reference: 40-70 %
+LY%: 35 %  Reference: 20-40 %",Normal,14.2,g/dL,12.0,16.0,Normal,41.8,%,36.0,46.0,Normal,310000,/µL,150000.0,450000.0,Normal,92.1,fL,80.0,100.0,Normal,34.5,g/dL,32.0,36.0,Normal,28.6,pg,27.0,33.0,Normal,12.7,%,11.5,14.5,Normal,55.1,%,40.0,70.0,Normal,35.0,%,20.0,40.0,Normal
+CBC_058,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 9.7 g/dL  Reference: 12-16 g/dL
+Hematocrit: 28.5 %  Reference: 36-46 %
+Platelet Count: 242,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 90.6 fL  Reference: 80-100 fL
+MCHC: 33.3 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 31.2 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 16.1 %  Reference: 11.5-14.5 %
+Neutrophils: 53 %  Reference: 40-70 %
+Lymphocytes: 27.1 %  Reference: 20-40 %",Abnormal,9.7,g/dL,12.0,16.0,Low,28.5,%,36.0,46.0,Low,242000,/µL,150000.0,450000.0,Normal,90.6,fL,80.0,100.0,Normal,33.3,g/dL,32.0,36.0,Normal,31.2,pg,27.0,33.0,Normal,16.1,%,11.5,14.5,High,53.0,%,40.0,70.0,Normal,27.1,%,20.0,40.0,Normal
+CBC_059,"COMPLETE BLOOD COUNT
+
+Hb: 13.6 g/dL  Reference: 12-16 g/dL
+PCV: 41.3 %  Reference: 36-46 %
+Platelets: 252,000 /µL  Reference: 150000-450000 /µL
+MCV: 83.8 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.5 g/dL  Reference: 32-36 g/dL
+MCH: 31.4 pg  Reference: 27-33 pg
+RDW: 12.2 %  Reference: 11.5-14.5 %
+Neutrophil %: 52.5 %  Reference: 40-70 %
+Lymphocyte %: 33.8 %  Reference: 20-40 %",Normal,13.6,g/dL,12.0,16.0,Normal,41.3,%,36.0,46.0,Normal,252000,/µL,150000.0,450000.0,Normal,83.8,fL,80.0,100.0,Normal,33.5,g/dL,32.0,36.0,Normal,31.4,pg,27.0,33.0,Normal,12.2,%,11.5,14.5,Normal,52.5,%,40.0,70.0,Normal,33.8,%,20.0,40.0,Normal
+CBC_060,"COMPLETE BLOOD COUNT
+
+HGB: 13.6 g/dL  Reference: 12-16 g/dL
+HCT: 40.7 %  Reference: 36-46 %
+PLT: 264,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 92.5 fL  Reference: 80-100 fL
+MCHC: 32.7 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 29.5 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.8 %  Reference: 11.5-14.5 %
+NE%: 50.7 %  Reference: 40-70 %
+LY%: 23.2 %  Reference: 20-40 %",Normal,13.6,g/dL,12.0,16.0,Normal,40.7,%,36.0,46.0,Normal,264000,/µL,150000.0,450000.0,Normal,92.5,fL,80.0,100.0,Normal,32.7,g/dL,32.0,36.0,Normal,29.5,pg,27.0,33.0,Normal,12.8,%,11.5,14.5,Normal,50.7,%,40.0,70.0,Normal,23.2,%,20.0,40.0,Normal
+CBC_061,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 16.7 g/dL  Reference: 12-16 g/dL
+Hematocrit: 53.5 %  Reference: 36-46 %
+Platelet Count: 209,000 /µL  Reference: 150000-450000 /µL
+MCV: 88.5 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 34.4 g/dL  Reference: 32-36 g/dL
+MCH: 25.4 pg  Reference: 27-33 pg
+RDW: 11.8 %  Reference: 11.5-14.5 %
+Neutrophils: 52.5 %  Reference: 40-70 %
+Lymphocytes: 38.3 %  Reference: 20-40 %",Abnormal,16.7,g/dL,12.0,16.0,High,53.5,%,36.0,46.0,High,209000,/µL,150000.0,450000.0,Normal,88.5,fL,80.0,100.0,Normal,34.4,g/dL,32.0,36.0,Normal,25.4,pg,27.0,33.0,Low,11.8,%,11.5,14.5,Normal,52.5,%,40.0,70.0,Normal,38.3,%,20.0,40.0,Normal
+CBC_062,"COMPLETE BLOOD COUNT
+
+Hb: 12.5 g/dL  Reference: 12-16 g/dL
+PCV: 35.9 %  Reference: 36-46 %
+Platelets: 290,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 89.3 fL  Reference: 80-100 fL
+MCHC: 33.9 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 29.2 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.2 %  Reference: 11.5-14.5 %
+Neutrophil %: 58.9 %  Reference: 40-70 %
+Lymphocyte %: 34.9 %  Reference: 20-40 %",Abnormal,12.5,g/dL,12.0,16.0,Normal,35.9,%,36.0,46.0,Low,290000,/µL,150000.0,450000.0,Normal,89.3,fL,80.0,100.0,Normal,33.9,g/dL,32.0,36.0,Normal,29.2,pg,27.0,33.0,Normal,13.2,%,11.5,14.5,Normal,58.9,%,40.0,70.0,Normal,34.9,%,20.0,40.0,Normal
+CBC_063,"COMPLETE BLOOD COUNT
+
+HGB: 10.7 g/dL  Reference: 12-16 g/dL
+HCT: 29.2 %  Reference: 36-46 %
+PLT: 141,000 /µL  Reference: 150000-450000 /µL
+MCV: 94 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 34.5 g/dL  Reference: 32-36 g/dL
+MCH: 27.7 pg  Reference: 27-33 pg
+RDW: 17.2 %  Reference: 11.5-14.5 %
+NE%: 58.6 %  Reference: 40-70 %
+LY%: 35.7 %  Reference: 20-40 %",Abnormal,10.7,g/dL,12.0,16.0,Low,29.2,%,36.0,46.0,Low,141000,/µL,150000.0,450000.0,Low,94.0,fL,80.0,100.0,Normal,34.5,g/dL,32.0,36.0,Normal,27.7,pg,27.0,33.0,Normal,17.2,%,11.5,14.5,High,58.6,%,40.0,70.0,Normal,35.7,%,20.0,40.0,Normal
+CBC_064,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 12.8 g/dL  Reference: 12-16 g/dL
+Hematocrit: 37.8 %  Reference: 36-46 %
+Platelet Count: 249,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 83.9 fL  Reference: 80-100 fL
+MCHC: 35.1 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 32.7 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.9 %  Reference: 11.5-14.5 %
+Neutrophils: 82.2 %  Reference: 40-70 %
+Lymphocytes: 15.4 %  Reference: 20-40 %",Abnormal,12.8,g/dL,12.0,16.0,Normal,37.8,%,36.0,46.0,Normal,249000,/µL,150000.0,450000.0,Normal,83.9,fL,80.0,100.0,Normal,35.1,g/dL,32.0,36.0,Normal,32.7,pg,27.0,33.0,Normal,13.9,%,11.5,14.5,Normal,82.2,%,40.0,70.0,High,15.4,%,20.0,40.0,Low
+CBC_065,"COMPLETE BLOOD COUNT
+
+Hb: 17.4 g/dL  Reference: 12-16 g/dL
+PCV: 52.2 %  Reference: 36-46 %
+Platelets: 306,000 /µL  Reference: 150000-450000 /µL
+MCV: 92.2 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.8 g/dL  Reference: 32-36 g/dL
+MCH: 26.3 pg  Reference: 27-33 pg
+RDW: 13.1 %  Reference: 11.5-14.5 %
+Neutrophil %: 54.7 %  Reference: 40-70 %
+Lymphocyte %: 24.6 %  Reference: 20-40 %",Abnormal,17.4,g/dL,12.0,16.0,High,52.2,%,36.0,46.0,High,306000,/µL,150000.0,450000.0,Normal,92.2,fL,80.0,100.0,Normal,33.8,g/dL,32.0,36.0,Normal,26.3,pg,27.0,33.0,Low,13.1,%,11.5,14.5,Normal,54.7,%,40.0,70.0,Normal,24.6,%,20.0,40.0,Normal
+CBC_066,"COMPLETE BLOOD COUNT
+
+HGB: 9 g/dL  Reference: 12-16 g/dL
+HCT: 28.1 %  Reference: 36-46 %
+PLT: 339,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 89.1 fL  Reference: 80-100 fL
+MCHC: 33.7 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 27.5 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 18 %  Reference: 11.5-14.5 %
+NE%: 58.4 %  Reference: 40-70 %
+LY%: 24.5 %  Reference: 20-40 %",Abnormal,9.0,g/dL,12.0,16.0,Low,28.1,%,36.0,46.0,Low,339000,/µL,150000.0,450000.0,Normal,89.1,fL,80.0,100.0,Normal,33.7,g/dL,32.0,36.0,Normal,27.5,pg,27.0,33.0,Normal,18.0,%,11.5,14.5,High,58.4,%,40.0,70.0,Normal,24.5,%,20.0,40.0,Normal
+CBC_067,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 9.8 g/dL  Reference: 12-16 g/dL
+Hematocrit: 33 %  Reference: 36-46 %
+Platelet Count: 279,000 /µL  Reference: 150000-450000 /µL
+MCV: 89.2 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.3 g/dL  Reference: 32-36 g/dL
+MCH: 27.6 pg  Reference: 27-33 pg
+RDW: 17.4 %  Reference: 11.5-14.5 %
+Neutrophils: 53.5 %  Reference: 40-70 %
+Lymphocytes: 24.7 %  Reference: 20-40 %",Abnormal,9.8,g/dL,12.0,16.0,Low,33.0,%,36.0,46.0,Low,279000,/µL,150000.0,450000.0,Normal,89.2,fL,80.0,100.0,Normal,33.3,g/dL,32.0,36.0,Normal,27.6,pg,27.0,33.0,Normal,17.4,%,11.5,14.5,High,53.5,%,40.0,70.0,Normal,24.7,%,20.0,40.0,Normal
+CBC_068,"COMPLETE BLOOD COUNT
+
+Hb: 13.7 g/dL  Reference: 12-16 g/dL
+PCV: 41.4 %  Reference: 36-46 %
+Platelets: 323,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 94.1 fL  Reference: 80-100 fL
+MCHC: 33.5 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 28 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.1 %  Reference: 11.5-14.5 %
+Neutrophil %: 60.1 %  Reference: 40-70 %
+Lymphocyte %: 32.9 %  Reference: 20-40 %",Normal,13.7,g/dL,12.0,16.0,Normal,41.4,%,36.0,46.0,Normal,323000,/µL,150000.0,450000.0,Normal,94.1,fL,80.0,100.0,Normal,33.5,g/dL,32.0,36.0,Normal,28.0,pg,27.0,33.0,Normal,12.1,%,11.5,14.5,Normal,60.1,%,40.0,70.0,Normal,32.9,%,20.0,40.0,Normal
+CBC_069,"COMPLETE BLOOD COUNT
+
+HGB: 15.2 g/dL  Reference: 12-16 g/dL
+HCT: 46.2 %  Reference: 36-46 %
+PLT: 258,000 /µL  Reference: 150000-450000 /µL
+MCV: 82.8 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.2 g/dL  Reference: 32-36 g/dL
+MCH: 29.9 pg  Reference: 27-33 pg
+RDW: 12.8 %  Reference: 11.5-14.5 %
+NE%: 54.5 %  Reference: 40-70 %
+LY%: 32.3 %  Reference: 20-40 %",Abnormal,15.2,g/dL,12.0,16.0,Normal,46.2,%,36.0,46.0,High,258000,/µL,150000.0,450000.0,Normal,82.8,fL,80.0,100.0,Normal,33.2,g/dL,32.0,36.0,Normal,29.9,pg,27.0,33.0,Normal,12.8,%,11.5,14.5,Normal,54.5,%,40.0,70.0,Normal,32.3,%,20.0,40.0,Normal
+CBC_070,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 13.2 g/dL  Reference: 12-16 g/dL
+Hematocrit: 38.4 %  Reference: 36-46 %
+Platelet Count: 282,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 87 fL  Reference: 80-100 fL
+MCHC: 33.7 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 30 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.1 %  Reference: 11.5-14.5 %
+Neutrophils: 55.1 %  Reference: 40-70 %
+Lymphocytes: 38.2 %  Reference: 20-40 %",Normal,13.2,g/dL,12.0,16.0,Normal,38.4,%,36.0,46.0,Normal,282000,/µL,150000.0,450000.0,Normal,87.0,fL,80.0,100.0,Normal,33.7,g/dL,32.0,36.0,Normal,30.0,pg,27.0,33.0,Normal,12.1,%,11.5,14.5,Normal,55.1,%,40.0,70.0,Normal,38.2,%,20.0,40.0,Normal
+CBC_071,"COMPLETE BLOOD COUNT
+
+Hb: 12.5 g/dL  Reference: 12-16 g/dL
+PCV: 34.8 %  Reference: 36-46 %
+Platelets: 163,000 /µL  Reference: 150000-450000 /µL
+MCV: 89.1 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.5 g/dL  Reference: 32-36 g/dL
+MCH: 29.3 pg  Reference: 27-33 pg
+RDW: 14 %  Reference: 11.5-14.5 %
+Neutrophil %: 42 %  Reference: 40-70 %
+Lymphocyte %: 33 %  Reference: 20-40 %",Abnormal,12.5,g/dL,12.0,16.0,Normal,34.8,%,36.0,46.0,Low,163000,/µL,150000.0,450000.0,Normal,89.1,fL,80.0,100.0,Normal,33.5,g/dL,32.0,36.0,Normal,29.3,pg,27.0,33.0,Normal,14.0,%,11.5,14.5,Normal,42.0,%,40.0,70.0,Normal,33.0,%,20.0,40.0,Normal
+CBC_072,"COMPLETE BLOOD COUNT
+
+HGB: 15.5 g/dL  Reference: 12-16 g/dL
+HCT: 44.4 %  Reference: 36-46 %
+PLT: 244,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 85.2 fL  Reference: 80-100 fL
+MCHC: 32.8 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 28.9 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 14.1 %  Reference: 11.5-14.5 %
+NE%: 69 %  Reference: 40-70 %
+LY%: 29 %  Reference: 20-40 %",Normal,15.5,g/dL,12.0,16.0,Normal,44.4,%,36.0,46.0,Normal,244000,/µL,150000.0,450000.0,Normal,85.2,fL,80.0,100.0,Normal,32.8,g/dL,32.0,36.0,Normal,28.9,pg,27.0,33.0,Normal,14.1,%,11.5,14.5,Normal,69.0,%,40.0,70.0,Normal,29.0,%,20.0,40.0,Normal
+CBC_073,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 11 g/dL  Reference: 12-16 g/dL
+Hematocrit: 35.1 %  Reference: 36-46 %
+Platelet Count: 361,000 /µL  Reference: 150000-450000 /µL
+MCV: 71.5 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.6 g/dL  Reference: 32-36 g/dL
+MCH: 21.2 pg  Reference: 27-33 pg
+RDW: 16.5 %  Reference: 11.5-14.5 %
+Neutrophils: 63.1 %  Reference: 40-70 %
+Lymphocytes: 27.5 %  Reference: 20-40 %",Abnormal,11.0,g/dL,12.0,16.0,Low,35.1,%,36.0,46.0,Low,361000,/µL,150000.0,450000.0,Normal,71.5,fL,80.0,100.0,Low,33.6,g/dL,32.0,36.0,Normal,21.2,pg,27.0,33.0,Low,16.5,%,11.5,14.5,High,63.1,%,40.0,70.0,Normal,27.5,%,20.0,40.0,Normal
+CBC_074,"COMPLETE BLOOD COUNT
+
+Hb: 14.1 g/dL  Reference: 12-16 g/dL
+PCV: 41.6 %  Reference: 36-46 %
+Platelets: 284,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 91.1 fL  Reference: 80-100 fL
+MCHC: 32 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 30.7 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.2 %  Reference: 11.5-14.5 %
+Neutrophil %: 49.3 %  Reference: 40-70 %
+Lymphocyte %: 30.7 %  Reference: 20-40 %",Normal,14.1,g/dL,12.0,16.0,Normal,41.6,%,36.0,46.0,Normal,284000,/µL,150000.0,450000.0,Normal,91.1,fL,80.0,100.0,Normal,32.0,g/dL,32.0,36.0,Normal,30.7,pg,27.0,33.0,Normal,12.2,%,11.5,14.5,Normal,49.3,%,40.0,70.0,Normal,30.7,%,20.0,40.0,Normal
+CBC_075,"COMPLETE BLOOD COUNT
+
+HGB: 13.9 g/dL  Reference: 12-16 g/dL
+HCT: 40.2 %  Reference: 36-46 %
+PLT: 311,000 /µL  Reference: 150000-450000 /µL
+MCV: 82.3 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.2 g/dL  Reference: 32-36 g/dL
+MCH: 28.4 pg  Reference: 27-33 pg
+RDW: 13 %  Reference: 11.5-14.5 %
+NE%: 59.7 %  Reference: 40-70 %
+LY%: 26 %  Reference: 20-40 %",Normal,13.9,g/dL,12.0,16.0,Normal,40.2,%,36.0,46.0,Normal,311000,/µL,150000.0,450000.0,Normal,82.3,fL,80.0,100.0,Normal,33.2,g/dL,32.0,36.0,Normal,28.4,pg,27.0,33.0,Normal,13.0,%,11.5,14.5,Normal,59.7,%,40.0,70.0,Normal,26.0,%,20.0,40.0,Normal
+CBC_076,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 14.6 g/dL  Reference: 12-16 g/dL
+Hematocrit: 43.1 %  Reference: 36-46 %
+Platelet Count: 161,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 79.2 fL  Reference: 80-100 fL
+MCHC: 33.5 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 29.1 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.9 %  Reference: 11.5-14.5 %
+Neutrophils: 57.8 %  Reference: 40-70 %
+Lymphocytes: 32.1 %  Reference: 20-40 %",Abnormal,14.6,g/dL,12.0,16.0,Normal,43.1,%,36.0,46.0,Normal,161000,/µL,150000.0,450000.0,Normal,79.2,fL,80.0,100.0,Low,33.5,g/dL,32.0,36.0,Normal,29.1,pg,27.0,33.0,Normal,12.9,%,11.5,14.5,Normal,57.8,%,40.0,70.0,Normal,32.1,%,20.0,40.0,Normal
+CBC_077,"COMPLETE BLOOD COUNT
+
+Hb: 14.8 g/dL  Reference: 12-16 g/dL
+PCV: 42.5 %  Reference: 36-46 %
+Platelets: 201,000 /µL  Reference: 150000-450000 /µL
+MCV: 83.5 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.7 g/dL  Reference: 32-36 g/dL
+MCH: 31.7 pg  Reference: 27-33 pg
+RDW: 12.7 %  Reference: 11.5-14.5 %
+Neutrophil %: 43 %  Reference: 40-70 %
+Lymphocyte %: 22.5 %  Reference: 20-40 %",Normal,14.8,g/dL,12.0,16.0,Normal,42.5,%,36.0,46.0,Normal,201000,/µL,150000.0,450000.0,Normal,83.5,fL,80.0,100.0,Normal,33.7,g/dL,32.0,36.0,Normal,31.7,pg,27.0,33.0,Normal,12.7,%,11.5,14.5,Normal,43.0,%,40.0,70.0,Normal,22.5,%,20.0,40.0,Normal
+CBC_078,"COMPLETE BLOOD COUNT
+
+HGB: 16.8 g/dL  Reference: 12-16 g/dL
+HCT: 49.8 %  Reference: 36-46 %
+PLT: 243,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 89.2 fL  Reference: 80-100 fL
+MCHC: 33.3 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 31.4 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.5 %  Reference: 11.5-14.5 %
+NE%: 52.8 %  Reference: 40-70 %
+LY%: 33.4 %  Reference: 20-40 %",Abnormal,16.8,g/dL,12.0,16.0,High,49.8,%,36.0,46.0,High,243000,/µL,150000.0,450000.0,Normal,89.2,fL,80.0,100.0,Normal,33.3,g/dL,32.0,36.0,Normal,31.4,pg,27.0,33.0,Normal,12.5,%,11.5,14.5,Normal,52.8,%,40.0,70.0,Normal,33.4,%,20.0,40.0,Normal
+CBC_079,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 9.5 g/dL  Reference: 12-16 g/dL
+Hematocrit: 31.1 %  Reference: 36-46 %
+Platelet Count: 352,000 /µL  Reference: 150000-450000 /µL
+MCV: 85.9 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 35.1 g/dL  Reference: 32-36 g/dL
+MCH: 29.1 pg  Reference: 27-33 pg
+RDW: 16.1 %  Reference: 11.5-14.5 %
+Neutrophils: 58.4 %  Reference: 40-70 %
+Lymphocytes: 25.6 %  Reference: 20-40 %",Abnormal,9.5,g/dL,12.0,16.0,Low,31.1,%,36.0,46.0,Low,352000,/µL,150000.0,450000.0,Normal,85.9,fL,80.0,100.0,Normal,35.1,g/dL,32.0,36.0,Normal,29.1,pg,27.0,33.0,Normal,16.1,%,11.5,14.5,High,58.4,%,40.0,70.0,Normal,25.6,%,20.0,40.0,Normal
+CBC_080,"COMPLETE BLOOD COUNT
+
+Hb: 11.7 g/dL  Reference: 12-16 g/dL
+PCV: 34.1 %  Reference: 36-46 %
+Platelets: 329,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 72.2 fL  Reference: 80-100 fL
+MCHC: 33.9 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 22.9 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 17.1 %  Reference: 11.5-14.5 %
+Neutrophil %: 56.1 %  Reference: 40-70 %
+Lymphocyte %: 26.7 %  Reference: 20-40 %",Abnormal,11.7,g/dL,12.0,16.0,Low,34.1,%,36.0,46.0,Low,329000,/µL,150000.0,450000.0,Normal,72.2,fL,80.0,100.0,Low,33.9,g/dL,32.0,36.0,Normal,22.9,pg,27.0,33.0,Low,17.1,%,11.5,14.5,High,56.1,%,40.0,70.0,Normal,26.7,%,20.0,40.0,Normal
+CBC_081,"COMPLETE BLOOD COUNT
+
+HGB: 16.5 g/dL  Reference: 12-16 g/dL
+HCT: 48.8 %  Reference: 36-46 %
+PLT: 269,000 /µL  Reference: 150000-450000 /µL
+MCV: 89 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.9 g/dL  Reference: 32-36 g/dL
+MCH: 31.6 pg  Reference: 27-33 pg
+RDW: 14.3 %  Reference: 11.5-14.5 %
+NE%: 59.9 %  Reference: 40-70 %
+LY%: 33.9 %  Reference: 20-40 %",Abnormal,16.5,g/dL,12.0,16.0,High,48.8,%,36.0,46.0,High,269000,/µL,150000.0,450000.0,Normal,89.0,fL,80.0,100.0,Normal,33.9,g/dL,32.0,36.0,Normal,31.6,pg,27.0,33.0,Normal,14.3,%,11.5,14.5,Normal,59.9,%,40.0,70.0,Normal,33.9,%,20.0,40.0,Normal
+CBC_082,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 14.8 g/dL  Reference: 12-16 g/dL
+Hematocrit: 44.8 %  Reference: 36-46 %
+Platelet Count: 277,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 93.4 fL  Reference: 80-100 fL
+MCHC: 33.9 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 31.7 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.2 %  Reference: 11.5-14.5 %
+Neutrophils: 55.9 %  Reference: 40-70 %
+Lymphocytes: 32.7 %  Reference: 20-40 %",Normal,14.8,g/dL,12.0,16.0,Normal,44.8,%,36.0,46.0,Normal,277000,/µL,150000.0,450000.0,Normal,93.4,fL,80.0,100.0,Normal,33.9,g/dL,32.0,36.0,Normal,31.7,pg,27.0,33.0,Normal,13.2,%,11.5,14.5,Normal,55.9,%,40.0,70.0,Normal,32.7,%,20.0,40.0,Normal
+CBC_083,"COMPLETE BLOOD COUNT
+
+Hb: 11.5 g/dL  Reference: 12-16 g/dL
+PCV: 33 %  Reference: 36-46 %
+Platelets: 70,000 /µL  Reference: 150000-450000 /µL
+MCV: 75.5 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.9 g/dL  Reference: 32-36 g/dL
+MCH: 24.8 pg  Reference: 27-33 pg
+RDW: 15.8 %  Reference: 11.5-14.5 %
+Neutrophil %: 53.7 %  Reference: 40-70 %
+Lymphocyte %: 37.9 %  Reference: 20-40 %",Abnormal,11.5,g/dL,12.0,16.0,Low,33.0,%,36.0,46.0,Low,70000,/µL,150000.0,450000.0,Low,75.5,fL,80.0,100.0,Low,33.9,g/dL,32.0,36.0,Normal,24.8,pg,27.0,33.0,Low,15.8,%,11.5,14.5,High,53.7,%,40.0,70.0,Normal,37.9,%,20.0,40.0,Normal
+CBC_084,"COMPLETE BLOOD COUNT
+
+HGB: 13.9 g/dL  Reference: 12-16 g/dL
+HCT: 40 %  Reference: 36-46 %
+PLT: 259,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 88.8 fL  Reference: 80-100 fL
+MCHC: 32.4 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 29 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.4 %  Reference: 11.5-14.5 %
+NE%: 63.5 %  Reference: 40-70 %
+LY%: 31.2 %  Reference: 20-40 %",Normal,13.9,g/dL,12.0,16.0,Normal,40.0,%,36.0,46.0,Normal,259000,/µL,150000.0,450000.0,Normal,88.8,fL,80.0,100.0,Normal,32.4,g/dL,32.0,36.0,Normal,29.0,pg,27.0,33.0,Normal,12.4,%,11.5,14.5,Normal,63.5,%,40.0,70.0,Normal,31.2,%,20.0,40.0,Normal
+CBC_085,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 13.5 g/dL  Reference: 12-16 g/dL
+Hematocrit: 39.7 %  Reference: 36-46 %
+Platelet Count: 277,000 /µL  Reference: 150000-450000 /µL
+MCV: 92.1 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 32.7 g/dL  Reference: 32-36 g/dL
+MCH: 27.6 pg  Reference: 27-33 pg
+RDW: 13.9 %  Reference: 11.5-14.5 %
+Neutrophils: 55.5 %  Reference: 40-70 %
+Lymphocytes: 23.9 %  Reference: 20-40 %",Normal,13.5,g/dL,12.0,16.0,Normal,39.7,%,36.0,46.0,Normal,277000,/µL,150000.0,450000.0,Normal,92.1,fL,80.0,100.0,Normal,32.7,g/dL,32.0,36.0,Normal,27.6,pg,27.0,33.0,Normal,13.9,%,11.5,14.5,Normal,55.5,%,40.0,70.0,Normal,23.9,%,20.0,40.0,Normal
+CBC_086,"COMPLETE BLOOD COUNT
+
+Hb: 14.3 g/dL  Reference: 12-16 g/dL
+PCV: 42.7 %  Reference: 36-46 %
+Platelets: 181,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 90.1 fL  Reference: 80-100 fL
+MCHC: 34.1 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 30.2 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.5 %  Reference: 11.5-14.5 %
+Neutrophil %: 49.6 %  Reference: 40-70 %
+Lymphocyte %: 32.7 %  Reference: 20-40 %",Normal,14.3,g/dL,12.0,16.0,Normal,42.7,%,36.0,46.0,Normal,181000,/µL,150000.0,450000.0,Normal,90.1,fL,80.0,100.0,Normal,34.1,g/dL,32.0,36.0,Normal,30.2,pg,27.0,33.0,Normal,13.5,%,11.5,14.5,Normal,49.6,%,40.0,70.0,Normal,32.7,%,20.0,40.0,Normal
+CBC_087,"COMPLETE BLOOD COUNT
+
+HGB: 13.5 g/dL  Reference: 12-16 g/dL
+HCT: 39.2 %  Reference: 36-46 %
+PLT: 313,000 /µL  Reference: 150000-450000 /µL
+MCV: 96.4 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 34.9 g/dL  Reference: 32-36 g/dL
+MCH: 31.9 pg  Reference: 27-33 pg
+RDW: 12.9 %  Reference: 11.5-14.5 %
+NE%: 78.1 %  Reference: 40-70 %
+LY%: 18.2 %  Reference: 20-40 %",Abnormal,13.5,g/dL,12.0,16.0,Normal,39.2,%,36.0,46.0,Normal,313000,/µL,150000.0,450000.0,Normal,96.4,fL,80.0,100.0,Normal,34.9,g/dL,32.0,36.0,Normal,31.9,pg,27.0,33.0,Normal,12.9,%,11.5,14.5,Normal,78.1,%,40.0,70.0,High,18.2,%,20.0,40.0,Low
+CBC_088,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 14.7 g/dL  Reference: 12-16 g/dL
+Hematocrit: 43.3 %  Reference: 36-46 %
+Platelet Count: 225,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 86.9 fL  Reference: 80-100 fL
+MCHC: 34 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 29.5 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.3 %  Reference: 11.5-14.5 %
+Neutrophils: 62 %  Reference: 40-70 %
+Lymphocytes: 29.1 %  Reference: 20-40 %",Normal,14.7,g/dL,12.0,16.0,Normal,43.3,%,36.0,46.0,Normal,225000,/µL,150000.0,450000.0,Normal,86.9,fL,80.0,100.0,Normal,34.0,g/dL,32.0,36.0,Normal,29.5,pg,27.0,33.0,Normal,13.3,%,11.5,14.5,Normal,62.0,%,40.0,70.0,Normal,29.1,%,20.0,40.0,Normal
+CBC_089,"COMPLETE BLOOD COUNT
+
+Hb: 14.6 g/dL  Reference: 12-16 g/dL
+PCV: 43.6 %  Reference: 36-46 %
+Platelets: 197,000 /µL  Reference: 150000-450000 /µL
+MCV: 96.2 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.1 g/dL  Reference: 32-36 g/dL
+MCH: 26.5 pg  Reference: 27-33 pg
+RDW: 12.2 %  Reference: 11.5-14.5 %
+Neutrophil %: 51.9 %  Reference: 40-70 %
+Lymphocyte %: 31.3 %  Reference: 20-40 %",Abnormal,14.6,g/dL,12.0,16.0,Normal,43.6,%,36.0,46.0,Normal,197000,/µL,150000.0,450000.0,Normal,96.2,fL,80.0,100.0,Normal,33.1,g/dL,32.0,36.0,Normal,26.5,pg,27.0,33.0,Low,12.2,%,11.5,14.5,Normal,51.9,%,40.0,70.0,Normal,31.3,%,20.0,40.0,Normal
+CBC_090,"COMPLETE BLOOD COUNT
+
+HGB: 10.7 g/dL  Reference: 12-16 g/dL
+HCT: 29.9 %  Reference: 36-46 %
+PLT: 299,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 90.7 fL  Reference: 80-100 fL
+MCHC: 33.8 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 30.2 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 16.7 %  Reference: 11.5-14.5 %
+NE%: 45.4 %  Reference: 40-70 %
+LY%: 29.2 %  Reference: 20-40 %",Abnormal,10.7,g/dL,12.0,16.0,Low,29.9,%,36.0,46.0,Low,299000,/µL,150000.0,450000.0,Normal,90.7,fL,80.0,100.0,Normal,33.8,g/dL,32.0,36.0,Normal,30.2,pg,27.0,33.0,Normal,16.7,%,11.5,14.5,High,45.4,%,40.0,70.0,Normal,29.2,%,20.0,40.0,Normal
+CBC_091,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 15 g/dL  Reference: 12-16 g/dL
+Hematocrit: 45.5 %  Reference: 36-46 %
+Platelet Count: 276,000 /µL  Reference: 150000-450000 /µL
+MCV: 86.5 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.9 g/dL  Reference: 32-36 g/dL
+MCH: 28.5 pg  Reference: 27-33 pg
+RDW: 13 %  Reference: 11.5-14.5 %
+Neutrophils: 63.9 %  Reference: 40-70 %
+Lymphocytes: 28.2 %  Reference: 20-40 %",Normal,15.0,g/dL,12.0,16.0,Normal,45.5,%,36.0,46.0,Normal,276000,/µL,150000.0,450000.0,Normal,86.5,fL,80.0,100.0,Normal,33.9,g/dL,32.0,36.0,Normal,28.5,pg,27.0,33.0,Normal,13.0,%,11.5,14.5,Normal,63.9,%,40.0,70.0,Normal,28.2,%,20.0,40.0,Normal
+CBC_092,"COMPLETE BLOOD COUNT
+
+Hb: 14.7 g/dL  Reference: 12-16 g/dL
+PCV: 44.1 %  Reference: 36-46 %
+Platelets: 212,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 93.9 fL  Reference: 80-100 fL
+MCHC: 34.1 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 29.7 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.4 %  Reference: 11.5-14.5 %
+Neutrophil %: 83.9 %  Reference: 40-70 %
+Lymphocyte %: 14.1 %  Reference: 20-40 %",Abnormal,14.7,g/dL,12.0,16.0,Normal,44.1,%,36.0,46.0,Normal,212000,/µL,150000.0,450000.0,Normal,93.9,fL,80.0,100.0,Normal,34.1,g/dL,32.0,36.0,Normal,29.7,pg,27.0,33.0,Normal,12.4,%,11.5,14.5,Normal,83.9,%,40.0,70.0,High,14.1,%,20.0,40.0,Low
+CBC_093,"COMPLETE BLOOD COUNT
+
+HGB: 14.3 g/dL  Reference: 12-16 g/dL
+HCT: 40.7 %  Reference: 36-46 %
+PLT: 254,000 /µL  Reference: 150000-450000 /µL
+MCV: 89.5 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 35.5 g/dL  Reference: 32-36 g/dL
+MCH: 27 pg  Reference: 27-33 pg
+RDW: 14.2 %  Reference: 11.5-14.5 %
+NE%: 58.9 %  Reference: 40-70 %
+LY%: 33.1 %  Reference: 20-40 %",Normal,14.3,g/dL,12.0,16.0,Normal,40.7,%,36.0,46.0,Normal,254000,/µL,150000.0,450000.0,Normal,89.5,fL,80.0,100.0,Normal,35.5,g/dL,32.0,36.0,Normal,27.0,pg,27.0,33.0,Normal,14.2,%,11.5,14.5,Normal,58.9,%,40.0,70.0,Normal,33.1,%,20.0,40.0,Normal
+CBC_094,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 13.9 g/dL  Reference: 12-16 g/dL
+Hematocrit: 41.6 %  Reference: 36-46 %
+Platelet Count: 257,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 96.3 fL  Reference: 80-100 fL
+MCHC: 33.1 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 31.5 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 12.5 %  Reference: 11.5-14.5 %
+Neutrophils: 57.6 %  Reference: 40-70 %
+Lymphocytes: 25.6 %  Reference: 20-40 %",Normal,13.9,g/dL,12.0,16.0,Normal,41.6,%,36.0,46.0,Normal,257000,/µL,150000.0,450000.0,Normal,96.3,fL,80.0,100.0,Normal,33.1,g/dL,32.0,36.0,Normal,31.5,pg,27.0,33.0,Normal,12.5,%,11.5,14.5,Normal,57.6,%,40.0,70.0,Normal,25.6,%,20.0,40.0,Normal
+CBC_095,"COMPLETE BLOOD COUNT
+
+Hb: 14.3 g/dL  Reference: 12-16 g/dL
+PCV: 43.8 %  Reference: 36-46 %
+Platelets: 261,000 /µL  Reference: 150000-450000 /µL
+MCV: 88 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 32.6 g/dL  Reference: 32-36 g/dL
+MCH: 29.1 pg  Reference: 27-33 pg
+RDW: 11.7 %  Reference: 11.5-14.5 %
+Neutrophil %: 52.5 %  Reference: 40-70 %
+Lymphocyte %: 32.1 %  Reference: 20-40 %",Normal,14.3,g/dL,12.0,16.0,Normal,43.8,%,36.0,46.0,Normal,261000,/µL,150000.0,450000.0,Normal,88.0,fL,80.0,100.0,Normal,32.6,g/dL,32.0,36.0,Normal,29.1,pg,27.0,33.0,Normal,11.7,%,11.5,14.5,Normal,52.5,%,40.0,70.0,Normal,32.1,%,20.0,40.0,Normal
+CBC_096,"COMPLETE BLOOD COUNT
+
+HGB: 17.4 g/dL  Reference: 12-16 g/dL
+HCT: 47.8 %  Reference: 36-46 %
+PLT: 233,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 96.2 fL  Reference: 80-100 fL
+MCHC: 33.7 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 29.2 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.3 %  Reference: 11.5-14.5 %
+NE%: 58.4 %  Reference: 40-70 %
+LY%: 31.6 %  Reference: 20-40 %",Abnormal,17.4,g/dL,12.0,16.0,High,47.8,%,36.0,46.0,High,233000,/µL,150000.0,450000.0,Normal,96.2,fL,80.0,100.0,Normal,33.7,g/dL,32.0,36.0,Normal,29.2,pg,27.0,33.0,Normal,13.3,%,11.5,14.5,Normal,58.4,%,40.0,70.0,Normal,31.6,%,20.0,40.0,Normal
+CBC_097,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 12.1 g/dL  Reference: 12-16 g/dL
+Hematocrit: 36.3 %  Reference: 36-46 %
+Platelet Count: 250,000 /µL  Reference: 150000-450000 /µL
+MCV: 86 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 33.5 g/dL  Reference: 32-36 g/dL
+MCH: 30.9 pg  Reference: 27-33 pg
+RDW: 13.1 %  Reference: 11.5-14.5 %
+Neutrophils: 54.1 %  Reference: 40-70 %
+Lymphocytes: 37.1 %  Reference: 20-40 %",Normal,12.1,g/dL,12.0,16.0,Normal,36.3,%,36.0,46.0,Normal,250000,/µL,150000.0,450000.0,Normal,86.0,fL,80.0,100.0,Normal,33.5,g/dL,32.0,36.0,Normal,30.9,pg,27.0,33.0,Normal,13.1,%,11.5,14.5,Normal,54.1,%,40.0,70.0,Normal,37.1,%,20.0,40.0,Normal
+CBC_098,"COMPLETE BLOOD COUNT
+
+Hb: 15.5 g/dL  Reference: 12-16 g/dL
+PCV: 46.4 %  Reference: 36-46 %
+Platelets: 319,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 95.2 fL  Reference: 80-100 fL
+MCHC: 34.4 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 30.6 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.5 %  Reference: 11.5-14.5 %
+Neutrophil %: 61.1 %  Reference: 40-70 %
+Lymphocyte %: 25.5 %  Reference: 20-40 %",Abnormal,15.5,g/dL,12.0,16.0,Normal,46.4,%,36.0,46.0,High,319000,/µL,150000.0,450000.0,Normal,95.2,fL,80.0,100.0,Normal,34.4,g/dL,32.0,36.0,Normal,30.6,pg,27.0,33.0,Normal,13.5,%,11.5,14.5,Normal,61.1,%,40.0,70.0,Normal,25.5,%,20.0,40.0,Normal
+CBC_099,"COMPLETE BLOOD COUNT
+
+HGB: 14.6 g/dL  Reference: 12-16 g/dL
+HCT: 41.4 %  Reference: 36-46 %
+PLT: 221,000 /µL  Reference: 150000-450000 /µL
+MCV: 95.5 fL  Reference: 80-100 fL
+Mean Corpuscular Hemoglobin Concentration: 34.2 g/dL  Reference: 32-36 g/dL
+MCH: 32.2 pg  Reference: 27-33 pg
+RDW: 12.8 %  Reference: 11.5-14.5 %
+NE%: 51.1 %  Reference: 40-70 %
+LY%: 29.8 %  Reference: 20-40 %",Normal,14.6,g/dL,12.0,16.0,Normal,41.4,%,36.0,46.0,Normal,221000,/µL,150000.0,450000.0,Normal,95.5,fL,80.0,100.0,Normal,34.2,g/dL,32.0,36.0,Normal,32.2,pg,27.0,33.0,Normal,12.8,%,11.5,14.5,Normal,51.1,%,40.0,70.0,Normal,29.8,%,20.0,40.0,Normal
+CBC_100,"COMPLETE BLOOD COUNT
+
+Hemoglobin: 13.9 g/dL  Reference: 12-16 g/dL
+Hematocrit: 41.1 %  Reference: 36-46 %
+Platelet Count: 605,000 /µL  Reference: 150000-450000 /µL
+Mean Corpuscular Volume: 87.2 fL  Reference: 80-100 fL
+MCHC: 33.8 g/dL  Reference: 32-36 g/dL
+Mean Corpuscular Hemoglobin: 27.7 pg  Reference: 27-33 pg
+Red Cell Distribution Width: 13.4 %  Reference: 11.5-14.5 %
+Neutrophils: 58 %  Reference: 40-70 %
+Lymphocytes: 27.3 %  Reference: 20-40 %",Abnormal,13.9,g/dL,12.0,16.0,Normal,41.1,%,36.0,46.0,Normal,605000,/µL,150000.0,450000.0,High,87.2,fL,80.0,100.0,Normal,33.8,g/dL,32.0,36.0,Normal,27.7,pg,27.0,33.0,Normal,13.4,%,11.5,14.5,Normal,58.0,%,40.0,70.0,Normal,27.3,%,20.0,40.0,Normal
