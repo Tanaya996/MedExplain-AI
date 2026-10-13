@@ -142,12 +142,15 @@ suggestion_knowledge_base = {
 import spacy
 import pandas as pd
 import spacy
+from pathlib import Path
+
+DATA_DIR = Path(__file__).resolve().parent / "Dasasets"
 nlp = spacy.load('en_core_web_sm')
 import pandas as pd
-cbc_df = pd.read_csv('cbc_medexplain_cleaned.csv')
+cbc_df = pd.read_csv(DATA_DIR / 'cbc_medexplain_cleaned.csv')
 text = '\nPatient CBC report shows hemoglobin 11.2 g/dL,\nhematocrit 34%, platelet count 150000 per microliter,\nMCV 72 fL, MCH 24 pg, MCHC 31 g/dL,\nRDW 15%, neutrophils 65%, and lymphocytes 28%.\n'
 doc = nlp(text)
-knowledge_df = pd.read_excel('Medical explanation knowledge base.xlsx')
+knowledge_df = pd.read_excel(DATA_DIR / 'Medical explanation knowledge base.xlsx')
 import pandas as pd
 import os
 import spacy
